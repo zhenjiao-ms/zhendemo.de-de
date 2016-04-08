@@ -1,0 +1,287 @@
+{
+  "865258c0b403d4e7979d7ee32d3f87b63a349f08": [
+    "pbdemo\\index.md"
+  ],
+  "013f2f6a41a2b15a00fd3832508fea7cc3b0a1b1": [
+    "pbdemo\\Image\\AccessControl.png"
+  ],
+  "2136224450102257a8aebe5c90f9d49f79a6ff90": [
+    "pbdemo\\Image\\AddADUser.png"
+  ],
+  "d53c28d781a4add58549ef518547b8f4640267a3": [
+    "pbdemo\\Image\\AddUser2.png"
+  ],
+  "2c2b84352809331544c25358381dba5165e0518a": [
+    "pbdemo\\Image\\app.generic.png"
+  ],
+  "d934975d37ec6a7cb10972f1a7b1c9fa476f0359": [
+    "pbdemo\\Image\\AzureActiveDirectory.png"
+  ],
+  "e4c428381e7d753a7cdf270aac2fff2092fa6875": [
+    "pbdemo\\Image\\AzureADFlow.gif"
+  ],
+  "3d5a8415a15c7e59a44c89cb19a12a6d8e0bca60": [
+    "pbdemo\\Image\\Code-file-small.png"
+  ],
+  "7afe6d89841cfc489dc4b511f78d49fc976acb15": [
+    "pbdemo\\Image\\Code.File.png"
+  ],
+  "daa633c119e9a69c30f43470b31981a71843e1bf": [
+    "pbdemo\\Image\\NewAD.png"
+  ],
+  "7dc293deb495bfa453cb6c5210980833300e2668": [
+    "pbdemo\\Image\\NewDir.png"
+  ],
+  "4815f12a21dad051ce9dbe8912cc4a67c7a65dfc": [
+    "pbdemo\\Image\\PBI_Logo.png"
+  ],
+  "8fae5c7cd41233f93b2758be1d6ea2e05b6fffb7": [
+    "pbdemo\\Image\\PBI_Overview.png"
+  ],
+  "590b535fea4c643fb55eee76759397e08e5ed4a9": [
+    "pbdemo\\Image\\Power-BI-logo-small.png"
+  ],
+  "6790d14553fbc3b48dac5307e37e778410771d6d": [
+    "pbdemo\\Image\\Power-BI-Permissions.png"
+  ],
+  "ebb0b2765c2846ee644bcc17e5301e7941d3598c": [
+    "pbdemo\\Image\\Power-BI-Sign-up.png"
+  ],
+  "1a98384f17f7529a07264bc727f41e064ee7dd6b": [
+    "pbdemo\\Image\\PowerBIApps.png"
+  ],
+  "413524ed35665b97663fc9d3013316569f6a665f": [
+    "pbdemo\\Image\\PowerBI_Push.png"
+  ],
+  "8189daf79e06cf37b6758cb5b4617b44f0a83c66": [
+    "pbdemo\\Image\\Register-app-10.jpg"
+  ],
+  "17e7c56070517a7d69bc05ba51eca2e38c738e58": [
+    "pbdemo\\Image\\Register-app-11.png"
+  ],
+  "94818dc3b5f5c6f9dfeaf911168a2d376e4c41d8": [
+    "pbdemo\\Image\\Register-app-12.png"
+  ],
+  "869ee15c56077a8822e55669faa9f43b2c73afee": [
+    "pbdemo\\Image\\Register-app-14.png"
+  ],
+  "49c06ffb6612fc75833021d78530228e3b934f03": [
+    "pbdemo\\Image\\Register-app-3.png"
+  ],
+  "029fb7714908d25fc4cfcef55b3014f7f8eb1dca": [
+    "pbdemo\\Image\\Register-app-3a.png"
+  ],
+  "3b2496c667229952f4f33bafe219959138bf6619": [
+    "pbdemo\\Image\\Register-app-4.png"
+  ],
+  "c909ec12479bf364e658c975baef462197c4ecf5": [
+    "pbdemo\\Image\\Register-app-5.png"
+  ],
+  "5de89aafad3af63a2171f5a66af0c9df80e7710c": [
+    "pbdemo\\Image\\Register-app-6.png"
+  ],
+  "9298fc4aecc2d181c55b1256ea7aee7b07854541": [
+    "pbdemo\\Image\\RegisterWebApp10.png"
+  ],
+  "a6d6df81ab9848d391c4621e41535eb6193687a2": [
+    "pbdemo\\Image\\RegisterWebApp7.png"
+  ],
+  "dcea7fe3dedd8b172fa83bc53de70c135cffde70": [
+    "pbdemo\\Image\\RegisterWebApp8.png"
+  ],
+  "7c3222d87d997e69553769ba8a7126aedad961b8": [
+    "pbdemo\\Image\\REST-API-Step-1.png"
+  ],
+  "ec93ad915254eaa4cc63f0e4ad410c19579b4c6d": [
+    "pbdemo\\Image\\REST-API-Step-2.png"
+  ],
+  "3c1831e28fc8f0059534e2d2eb3ac11319974cb2": [
+    "pbdemo\\Image\\REST-API-Step-3.png"
+  ],
+  "800f16b4edb63d881b86d81bf2e7a0245aed4d8e": [
+    "pbdemo\\Image\\REST-API-Step-4.png"
+  ],
+  "549ea3afcca0556d832367a08c36b97632ba72a5": [
+    "pbdemo\\Image\\REST-API-Step-5.png"
+  ],
+  "8f3ffa13f3901a6109fdb682e4020f15750e8ee0": [
+    "pbdemo\\Image\\REST-API-Step-6.png"
+  ],
+  "a73344ac7286a263260b012260ad9625b3878803": [
+    "pbdemo\\Image\\REST-API-Try.png"
+  ],
+  "b35472e87104fb06cc7ff50e9a61e8d4c94574bf": [
+    "pbdemo\\Image\\REST_API.png"
+  ],
+  "cc4c77f6dbfb739fc5fa1484b7b20ddd3783b62d": [
+    "pbdemo\\Image\\REST_API_Logo.png"
+  ],
+  "35249d9e2f4f68be9ac302a02c14586956a3a680": [
+    "pbdemo\\Image\\retention-policy.png"
+  ],
+  "fd9254a94b39660f4e3c7faa97f052abd2408ad3": [
+    "pbdemo\\Image\\rtd.png"
+  ],
+  "6d189d3169966acfb2d028e6bded1b1b6f6918dc": [
+    "pbdemo\\Image\\Samples-1.png"
+  ],
+  "269f573092a61cd496006ea07cfa81027caf7e77": [
+    "pbdemo\\Image\\Samples-2.png"
+  ],
+  "c68828c7fdfc580069db0868470c7b71348bf45e": [
+    "pbdemo\\Image\\Samples-3.png"
+  ],
+  "f5a9aefffa314741e18c5df5cb38b73a5ee40438": [
+    "pbdemo\\Image\\Samples-4.png"
+  ],
+  "50addede29a81eb65dafe26e71fa96aba2eac53b": [
+    "pbdemo\\Image\\StreamInsight.png"
+  ],
+  "4a1dada48ae91c1d6205ee52daf5abc41964c037": [
+    "pbdemo\\Image\\TempPassword.png"
+  ],
+  "df84b73917201fee4267d7517fb5c99c0d3524b7": [
+    "pbdemo\\Image\\UserProfile.png"
+  ],
+  "99203f23dc9c9c2e32f7264b34e8e0a627348bf4": [
+    "pbdemo\\Image\\WebApp.png"
+  ],
+  "3f0db5406e0cf40d64f05ea7905c7dedf9334332": [
+    "pbdemo\\Topic\\Add-Rows.md"
+  ],
+  "6353db34b125e3ba202eecaeeea91aafdf882cc6": [
+    "pbdemo\\Topic\\Authenticate-a-client-app.md"
+  ],
+  "1f36241df106e72915eb0030885d9d2fdcb7eff9": [
+    "pbdemo\\Topic\\Authenticate-a-web-app.md"
+  ],
+  "7ce23799e5fa974faada62a5617c8a3b33680b69": [
+    "pbdemo\\Topic\\Authenticate-to-Power-BI-service.md"
+  ],
+  "38a8f2d4accab4bb72e8d38036fb77692a4bdb0b": [
+    "pbdemo\\Topic\\Automatic-retention-policy-for-real-time-data.md"
+  ],
+  "c543578dd5bef440f2f7090d52767997ba4af314": [
+    "pbdemo\\Topic\\Client-app-authentication-sample.md"
+  ],
+  "9b3e4de71decd0962887872cc9698bf6a3982b81": [
+    "pbdemo\\Topic\\Create-a-real-time-Power-BI-dashboard.md"
+  ],
+  "62dc5281486cedfa214ce86ca9b71612ab267543": [
+    "pbdemo\\Topic\\Create-an-Azure-Active-Directory-tenant.md"
+  ],
+  "3d1cee01c5cc4532d6067b45dcd08af80970a4c2": [
+    "pbdemo\\Topic\\Create-Dataset.md"
+  ],
+  "36c8e9a4fca18e676a8536bd721051fc18580e82": [
+    "pbdemo\\Topic\\Create-Import.md"
+  ],
+  "ae88a687787c15aa996979115e06b001e7755a4f": [
+    "pbdemo\\Topic\\Dashboard-operations.md"
+  ],
+  "c97554ee3645bd58ef750454eccaf3b0832f44aa": [
+    "pbdemo\\Topic\\Dataset-operations.md"
+  ],
+  "517bade18866576da9612802352eef43ff00fb6e": [
+    "pbdemo\\Topic\\Delete-Rows.md"
+  ],
+  "d0746a5b06651a5784b043569f96b3723b456b17": [
+    "pbdemo\\Topic\\Get-Dashboards.md"
+  ],
+  "4060873f72905e43d2733d829dee411d30697f15": [
+    "pbdemo\\Topic\\Get-Datasets.md"
+  ],
+  "d76d455997fde8d27336c038ffc47fbfd82ee037": [
+    "pbdemo\\Topic\\Get-Groups.md"
+  ],
+  "f9f9043a47ae95350e5d55a2383d19f6be7b832d": [
+    "pbdemo\\Topic\\Get-Import-by-File-Path.md"
+  ],
+  "cd8d5d799c2f7b6021ab07e04083761038ab7741": [
+    "pbdemo\\Topic\\Get-Import-by-GUID.md"
+  ],
+  "1626f4324a8342f6aacefa8e38ab9089399dc8be": [
+    "pbdemo\\Topic\\Get-Imports.md"
+  ],
+  "d8a5586370bbd7d82f9f0476098cd60d5cdee0b3": [
+    "pbdemo\\Topic\\Get-started-creating-a-Power-BI-app.md"
+  ],
+  "eee2a1b8ffef59c3aa83681bfcee30e1f45f7a41": [
+    "pbdemo\\Topic\\Get-started-creating-Power-BI-apps.md"
+  ],
+  "fd92ea29fa576bf1e47b74a0233289dd8f714365": [
+    "pbdemo\\Topic\\Get-Tables.md"
+  ],
+  "8e3ac6f6ca4c51f3eed8b6ee554ec21bd2770043": [
+    "pbdemo\\Topic\\Get-Tiles.md"
+  ],
+  "b7773073aa35a20292c176e3414582af459922ba": [
+    "pbdemo\\Topic\\Group-operations.md"
+  ],
+  "89f976eee78f35547778fabba3498a2dd048a29d": [
+    "pbdemo\\Topic\\Import-operations.md"
+  ],
+  "5386c74d4691f3ae8364dd9fae61bd741920c24e": [
+    "pbdemo\\Topic\\Integrate-a-Power-BI-tile-into-an-app.md"
+  ],
+  "a547b3ec68096fc227225108cfb263faa0a60a25": [
+    "pbdemo\\Topic\\Integrate-a-Power-BI-tile-or-report.md"
+  ],
+  "155b4e4170b17d3f1e55a8ef7c15d6be20be3863": [
+    "pbdemo\\Topic\\Introduction-to-creating-a-Power-BI-app.md"
+  ],
+  "9f4320c28cecf66ed6a4765d69810a233d17e356": [
+    "pbdemo\\Topic\\Introduction-to-Power-BI-REST-API.md"
+  ],
+  "8de318af885c2c42971c9f408974f64c455f57af": [
+    "pbdemo\\Topic\\Overview-of-Power-BI-REST-API.md"
+  ],
+  "505d4c5e0221e07d3d2a4748a11c464bc9811885": [
+    "pbdemo\\Topic\\Power-BI-client-app-sample.md"
+  ],
+  "1539811c9a906ad52909603cc333465d9fb31cbf": [
+    "pbdemo\\Topic\\Power-BI-data-model-versioning.md"
+  ],
+  "3f7b3e4ee69f5761593834858fa9db8faa4eb369": [
+    "pbdemo\\Topic\\Power-BI-permissions.md"
+  ],
+  "040b46206633b544c9b039fbb2786323f37a5d1b": [
+    "pbdemo\\Topic\\Power-BI-REST-API-limitations.md"
+  ],
+  "0d9eab4d8c62cf96e8ad3b42754e8c04dd4d0226": [
+    "pbdemo\\Topic\\Power-BI-REST-API-reference.md"
+  ],
+  "88fc99bff86af12204a3ba8d0d44c01d9ad0f5ab": [
+    "pbdemo\\Topic\\Power-BI-Samples.md"
+  ],
+  "970da3250bdd894378ac64c332dcdd54dacbd6da": [
+    "pbdemo\\Topic\\Power-BI-web-app-sample.md"
+  ],
+  "62b2519351f823e59a10e8503afd8096a01b8ac5": [
+    "pbdemo\\Topic\\Register-a-client-app.md"
+  ],
+  "a7603d99ce2554ab1e8f20a26efa13f3a188ca02": [
+    "pbdemo\\Topic\\Register-a-web-app.md"
+  ],
+  "73a22ca66af8c815767ff62c741bb3fb43136579": [
+    "pbdemo\\Topic\\Row-operations.md"
+  ],
+  "585b1228f29db09f3daad976ffff0c087574543b": [
+    "pbdemo\\Topic\\Sign-up-for-Power-BI-service.md"
+  ],
+  "602c6fa17c7ed913dc4d68dd33f980b9e27230bf": [
+    "pbdemo\\Topic\\Supported-data-types.md"
+  ],
+  "07ef3d388a5e4c3c93bd0cb570e7e71328f1f5b8": [
+    "pbdemo\\Topic\\Table-operations.md"
+  ],
+  "a6870f324a148791bca3a8a50e93b555bc0214ee": [
+    "pbdemo\\Topic\\TOC.md"
+  ],
+  "a32ecaf98534148bedb20873885c6f0b1642aa7a": [
+    "pbdemo\\Topic\\Update-Table-Schema.md"
+  ],
+  "5d69cb03a08911c7a3e729ca715afe276329dc57": [
+    "pbdemo\\Topic\\Using-Azure-AAD-client-libraries.md"
+  ]
+}
