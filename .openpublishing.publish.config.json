@@ -1,21 +1,24 @@
 {
   "build_entry_point": "",
   "need_generate_pdf": false,
+  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "pbdemo",
-      "build_source_folder": null,
       "build_output_subfolder": "pbdemo",
-      "build_entry_point": "op.ps1",
       "locale": "de-de",
-      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
-      }
+      },
+      "build_entry_point": "op.ps1",
+      "version": 0
     }
   ],
-  "notification_subscribers": []
+  "notification_subscribers": [],
+  "continue_with_document_error": true,
+  "skip_source_output_uploading": false,
+  "need_generate_pdf_url_template": false
 }
